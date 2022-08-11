@@ -8,7 +8,7 @@
 	<name>Hello World Web Application Repository</name>
 	<description>Simplest possible Java Webapp</description>
 	
-	<!--github webhook-->
+	
 
 	<build>
 		<plugins>
